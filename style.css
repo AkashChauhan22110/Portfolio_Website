@@ -151,7 +151,7 @@ a {
 }
 
 #btn:hover{
-  scale:1.1;
+  scale:0.9;
 }
 
 .right-hero-section {
@@ -666,7 +666,7 @@ footer{
 .footer-faded-text{
   position:absolute;
   left: 0;
-  bottom:0;
+  bottom:-15px;
   color: #535c87;
   user-select: none;
   font-size: 5rem;
