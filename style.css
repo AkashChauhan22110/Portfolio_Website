@@ -666,7 +666,7 @@ footer{
 .footer-faded-text{
   position:absolute;
   left: 0;
-  bottom:-15px;
+  bottom:0;
   color: #535c87;
   user-select: none;
   font-size: 5rem;
