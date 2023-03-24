@@ -290,7 +290,7 @@ a {
 
 .page-header{
   color: var(--bgGreen);
-  font-size: 90px;
+  font-size: 7rem;
   padding:30px;
   text-align: center;
 }
@@ -519,8 +519,8 @@ a {
   font-size: 15em;
   font-style: bold;
   color: rgb(231, 231, 231);
-  bottom: -39.5%;
-  right:-5%;
+  bottom: -36.5%;
+  right:-90px;
   user-select: none;
 }
 
@@ -535,7 +535,7 @@ a {
   display: flex;
   flex-wrap: wrap;
   position: relative;
-  gap: 5rem;
+  gap: 2rem;
   justify-content: center;
 }
 
