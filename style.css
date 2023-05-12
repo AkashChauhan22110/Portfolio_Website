@@ -373,7 +373,7 @@ a {
 }
 
 .project-content-right{
-  right:-10%;
+  right:-20%;
 }
 
 .project-content{
@@ -438,14 +438,14 @@ a {
 }
 #project2{
   margin-left: 120px;
-  background-image: url(./images/projects/Project2.png);
+  background-image: url(./images/projects/Project2.jpg);
 }
 #project3{
-  background-image: url(./images/projects/Project3.png);
+  background-image: url(./images/projects/Project3.jpg);
 }
 #project4{
   margin-left: 120px;
-  background-image: url(./images/projects/Project4.png);
+  background-image: url(./images/projects/Project4.jpg);
 }
 
 /* 
