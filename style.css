@@ -167,7 +167,7 @@ a {
   filter: grayscale(1);
   transition: all 1s;
   animation: scaleImage 5s linear infinite;
-  -webkit-animation: scaleImage 5s linear infinite;
+  -webkit-filter: grayscale(1);
 }
 
 @keyframes scaleImage {
@@ -572,11 +572,19 @@ a {
 
 .skills-logo{
   width: 90px;
-  transition: all 0.3s;
+  transition: all 0.8s;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  -o-transition: all 0.8s;
 }
 
 .skills-logo:hover{
-  transform: scale(1.2);
+  transform: scale(1.6);
+  -webkit-transform: scale(1.6);
+  -moz-transform: scale(1.6);
+  -ms-transform: scale(1.6);
+  -o-transform: scale(1.6);
 }
 
 .contact-us-form-section{
