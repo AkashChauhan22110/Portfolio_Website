@@ -4,13 +4,11 @@ This is a simple portfolio website built using HTML and CSS to showcase your wor
 
 ## Table of Contents
 
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
+-Profile (About)
+-Projects
+-Skills
+-Contact Us Page
+-Media Links
 
 ## Features
 
