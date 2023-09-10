@@ -3,12 +3,12 @@
 This is a simple portfolio website built using HTML and CSS to showcase your work, skills, and experience.
 
 ## Table of Contents
+- [Profile](#profile)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact Us Page](#constuspage)
+- [Media Links](#medialinks)
 
--[Profile (About)]
--[Projects]
--[Skills]
--[Contact Us Page]
--[Media Links]
 
 ## Features
 
